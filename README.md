@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pizzyander, a Project Manager and Data Analyst.
+- 👋 Hi, I’m ADESANMI AKINFE, a Project Manager and Data Analyst.
 - 👀 I’m interested in solvig real life problems with Data Analysis.
 - 🌱 I’m currently learning Data Analytics and hoping to learn Devops Engineering after Data Analysis.
 - 💞️ I’m looking to collaborate on Projects on food distribution in african rural areas, i would also love to collaborate on projects relating to Astronomy/cosmology
