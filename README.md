@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ADESANMI AKINFE, a Data Analyst and Project Manager.
+- 👋 Hi, I’m ADESANMI AKINFE, a Data Scientist.
 - 👀 I’m interested in solvig problems with Data.
 - 🌱 I’m currently learning Data Analytics and hoping to learn Devops Engineering after Data Analysis.
 - 💞️ I’m looking to collaborate on Projects relating to food distribution in african rural areas, i would also love to collaborate on projects relating to Astronomy/cosmology.
